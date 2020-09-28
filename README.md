@@ -8,4 +8,5 @@
 ### lab2
 - histogram
 - the law of large numbers
+- poker hands
 - Monty Hall problem
