@@ -10,3 +10,15 @@
 - the law of large numbers
 - poker hands
 - Monty Hall problem
+
+### lab3
+- dictionary
+- class
+- file operation
+- pickle
+- csv
+- image
+- lambda
+- filter
+- sample path
+- poisson distribution
