@@ -45,3 +45,21 @@
 - random process
     - a random process is a collection of indexed random variables on the same probability space. We say $ X = (X_t: t\in \Tau) $ is a *random process* where each $X_t$ is a random variable. The index $t$ often corresponds to time.
 - random walk
+
+### lab7
+- Markov chains
+- Markov Gibberish
+- random graphs
+- networkx
+
+### lab8
+- page rank algorithm
+- statistical inference with a Markov model
+- cache replacement policies
+
+### lab9
+- binary hypothesis testing
+    - likelihood ratio test (LRT)
+- sequential hypothesis testing
+    - sequential probability ratio test (SPRT)
+- gambler's ruin
