@@ -7,7 +7,7 @@
 
 ### lab2
 - histogram
-- the law of large numbers
+- the law of large numbers (LLN)
 - poker hands
 - Monty Hall problem
 
@@ -63,3 +63,12 @@
 - sequential hypothesis testing
     - sequential probability ratio test (SPRT)
 - gambler's ruin
+
+### lab10
+- central limit theorem (CLT)
+- change detection
+    - window method
+        - do LRT every period of time (window size)
+    - cumulative sum algorithm 
+        - do LRT each time step
+- multivariate_normal
