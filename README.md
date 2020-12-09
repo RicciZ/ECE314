@@ -72,3 +72,8 @@
     - cumulative sum algorithm 
         - do LRT each time step
 - multivariate_normal
+
+### lab11
+- ODEs
+- Failure Rates
+- Evolutionary Games
