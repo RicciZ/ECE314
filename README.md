@@ -71,9 +71,24 @@
         - do LRT every period of time (window size)
     - cumulative sum algorithm 
         - do LRT each time step
+- covariance
 - multivariate_normal
 
 ### lab11
-- ODEs
+- ode
 - Failure Rates
 - Evolutionary Games
+
+### lab12
+- SIR model (susceptible, infected, removed)
+- ode
+- graph
+
+### lab13
+- wide sense conditional expectation or linear estimator $\widehat{E}[Y|X]=L^*(X)=\mu_Y + \frac{Cov(Y,X)}{Var(X)}(u-\mu_X)$
+- linear regression
+- multiple linear regression
+
+### lab14
+- PCA (Principal Component Analysis)
+- clustering
